@@ -8,3 +8,4 @@ Dashboard and Insights:
 2] Discover the top hosts reigning over NYC Airbnb domain.
 3] Dive into average price trends across neighborhoods, tailored to different room types. 
 4] Evolution of Airbnb through the years with insights into total reviews.
+
